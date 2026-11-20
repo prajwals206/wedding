@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Shruti and Jayant//Wedding Cum Reception//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:shruti-jayant-wedding-20261213@invitation.local
+DTSTAMP:20261119T000000Z
+DTSTART:20261213T133000Z
+SUMMARY:Shruti and Jayant · Wedding Cum Reception
+LOCATION:Royal Banquet Hall, Opposite Telephone Exchange, Ulhasnagar 2
+DESCRIPTION:Celebration from 7:00 PM onwards. Dinner after 8:30 PM. With love and blessings, Lokhande Family.
+END:VEVENT
+END:VCALENDAR
